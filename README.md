@@ -1,6 +1,6 @@
 # echarts-map-json
 
-echarts地图demo，包含下探到市级的json数据：  
+echarts地图demo，包含下探到区级的json数据：  
 1，全国地图采用china.js(因为实践中使用china.json无法描绘出南海诸岛，不符合测绘法规定)  
 2，省市级别使用json文件  
 3，资源结构如下  
