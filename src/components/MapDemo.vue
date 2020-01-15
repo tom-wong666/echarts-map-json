@@ -9,6 +9,7 @@
       </template>
       <span>]</span>
     </div>
+    <a class="download-source" href="http://120.77.182.31:90/map.rar" download="">下载json和映射文件</a>
     <div id="chinaMap" :style="{width:'100vw', height:'100vh'}"/>
   </div>
 </template>
@@ -1460,7 +1461,7 @@ export default {
     left: 30px;
     color: #ffcf00;
     z-index: 10000;
-    font-size: 15px;
+    font-size: 18px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -1476,5 +1477,14 @@ export default {
   .map-index > .svg-icon {
     width: 15px;
     height: 15px;
+  }
+  .download-source {
+    color: #ff4c4c;
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    margin-left: -70px;
+    z-index: 20000;
+    font-size: 18px;
   }
 </style>
