@@ -9,7 +9,7 @@ map  文件夹
 ├──china.json  
 ├──codeToJson.js code和json的映射文件  
 └──province  文件夹  
--->├──guangdong.json  广东为例(实际包含全部省份)  
+-->├──guangdong.json  广东为例(实际包含全国的省级行政区域)  
 -->└──guangdong  文件夹  
 -->-->└──shenzhen.json  深圳为例(实际包含该省全部市)  
 
