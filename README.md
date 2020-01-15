@@ -9,9 +9,9 @@ map  文件夹
 ├──china.json  
 ├──codeToJson.js code和json的映射文件  
 └──province  
-   ├──guangdong.json  
-   └──guangdong  文件夹  
-      └──shenzhen.json  
+     ├──guangdong.json  
+     └──guangdong  文件夹  
+        └──shenzhen.json  
 
 ## Build Setup
 
